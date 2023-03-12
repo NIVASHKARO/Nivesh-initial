@@ -12,5 +12,5 @@
 
 export const WEBSITE_URL = "https://nivesh-landing.netlify.app";
 export const PORTAL_URL = "https://nivesh-frontend.netlify.app";
-export const backendURL = "https://nivesh-backend.netlify.app";
+export const backendURL = "https://backend-dssdj.ondigitalocean.app/";
 
